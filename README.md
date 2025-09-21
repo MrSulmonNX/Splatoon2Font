@@ -1,1 +1,2 @@
-# Splatoon2Font
+# Splatoon2Font  
+Font used in Splatoon2.  
